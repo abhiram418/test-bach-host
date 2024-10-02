@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "test.Controllers.TestClass",
+    "Method": "Sum",
+    "RelativePath": "TestClass/{number}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
