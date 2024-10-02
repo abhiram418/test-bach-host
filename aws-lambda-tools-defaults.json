@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-1",
+    "profile" : "abhiram",
+    "configuration" : "Release",
+    "framework"     : "net8.0",
+    "function-name" : "TestNewLambda-1",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-handler"     : "Test",
+    "function-memory-size" : 512,
+    "function-role"        : "arn:aws:iam::390402564302:role/lambda_exec_TestNewLambda-1-2",
+    "function-timeout"     : 15,
+    "function-runtime"     : "dotnet8",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : ""
+}
